@@ -5,4 +5,4 @@ Changes from V2:
 2) Added pullup resistor R58 to TP1 32kHz output
 3) Changed U22 and U4 schematic symbols
 4) Added R59 Pullup resistor to eliminate any possibility of glitching whenever U23 switches from RS485/SDI-12 
-   receive mode over to RTC alarm mode wakeup trigger input. Probably not required(but makes me feel better:-) )
+   receive mode over to RTC alarm mode wakeup trigger input. Probably not required (but makes me feel better:-) )
