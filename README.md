@@ -1,4 +1,4 @@
-# ALog-BottleLogger2.2
+# ALog-BottleLogger2.2 (To be published soon)
 Arduino-based low-power field environmental data logging platform: hardware schematics and circuit board layouts
 Changes from V2:
 1) Added second EEPROM U13 in parallel with U19 to increase local storage from 2Mb to 4Mb (0.5MB)
